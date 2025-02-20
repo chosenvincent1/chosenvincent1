@@ -1,5 +1,5 @@
 ## Hi there!
-## I'm Chosen, a Frontend Engineer and Technical Writer
+I'm Chosen, a Frontend Engineer and Technical Writer
 
 <!--
 **chosenvincent1/chosenvincent1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
